@@ -1,8 +1,11 @@
-## Welcome ....
+## Dilki Nipuni Rathnayaka
+ 
+About Me
+<html>
+  <body>
+    <p> Ready to accept challenge in any situation. Resposible and ambitious person. Ability work in high pressure. Hardworking and bringing forth a positive attitude.Effective communicational and interpersonal skills. I am a good team player. </p>
 
-You can use the [editor on GitHub](https://github.com/PavithriDeshani/paviii/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
